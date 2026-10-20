@@ -84,3 +84,8 @@ Experienced in enterprise data engineering, business intelligence, data architec
 **Location:** Buenos Aires, Argentina
 
 **Open to:** Remote Data Engineering, Data Architecture, and BI Engineering opportunities.
+
+---
+
+[GitHub Profile](https://github.com/vacm1973)
+
